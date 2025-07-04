@@ -1,3 +1,6 @@
+Melakukan analisa data penyewaan sepeda dan menampilkan dashboard yang memudahkan dalam memahami pola pada data.
+
+
 Cara menjalankan dashboard
 1. buka terminal
 2. jika belum menginstal streamlit dan library lainnya dapat menginstalnya terlebih dahulu.  (library dapat dilihat difile requirements.txt)
